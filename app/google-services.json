@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "71044756143",
+    "firebase_url": "https://traviscidemo.firebaseio.com",
+    "project_id": "traviscidemo",
+    "storage_bucket": "traviscidemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71044756143:android:4239a13bbbdf2c4d",
+        "android_client_info": {
+          "package_name": "com.example.shree.traviscidemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71044756143-04827n3a8bjs79mumideeu70ith523i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shree.traviscidemo",
+            "certificate_hash": "f7ed42a5dd6351ceea28efb4f4ec92f9e9a38878"
+          }
+        },
+        {
+          "client_id": "71044756143-fgdmgsemtnvgojq600s7mjflao6aige8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaT_-a_gnLRY1S_XVYBwNuYtZYhYuxWQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71044756143-fgdmgsemtnvgojq600s7mjflao6aige8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
