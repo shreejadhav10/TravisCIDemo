@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
     
     private void initView(){
         int i=0;
+        int j=1;
     }
 }
